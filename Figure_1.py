@@ -3,7 +3,8 @@
 """
 Created on Wed Nov 22 15:55:16 2023
 
-@author: ASUS
+@author: Elephes Sung
+Research Postgraduate, DoLS, FoNS, Imperial College
 """
 
 import numpy as np
